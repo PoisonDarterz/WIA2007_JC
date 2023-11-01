@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="hello_text">Hello Siuuuuuu!</string>
+    <string name="poisondarte">\@poisondarterz</string>
+    <string name="jc_chuan">JC Chuan</string>
+    <string name="currently_s">
+    Currently studying Bachelor of Computer Science (Information Systems) in UM.
+    </string>
+    <string name="followers_6">Followers\n69</string>
+    <string name="following_4">Following\n42</string>
+    <string name="pinned">Pinned</string>
+    <string name="home">Home</string>
+    <string name="notificatio">Notification</string>
+    <string name="explore">Explore</string>
+    <string name="profile">Profile</string>
+    <string name="calculate">Calculate!</string>
+    <string name="red">Red</string>
+    <string name="green">Green</string>
+    <string name="blue">Blue</string>
+    <string name="title">Christmas Calculator</string>
+    <string name="num1">Enter first number</string>
+    <string name="num2">Enter second number</string>
+    <string name="please_enter_a_number">Please enter a number</string>
+</resources>
