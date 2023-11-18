@@ -21,4 +21,13 @@
     <string name="num1">Enter first number</string>
     <string name="num2">Enter second number</string>
     <string name="please_enter_a_number">Please enter a number</string>
+    <string name="feedback">Feedback</string>
+    <string name="calculator">Calculator</string>
+    <string name="feedback_form">Feedback Form</string>
+    <string name="rate">How much will you rate this app?</string>
+    <string name="recommend">Will you recommend this app?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="suggestion">Your suggestion on improvement:</string>
+    <string name="submit">Submit</string>
 </resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "978080414881",
+    "project_id": "mycloudapp-fa970",
+    "storage_bucket": "mycloudapp-fa970.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978080414881:android:487bd5f3910fcf593644e0",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAigvZ0ph2TyQfZObeIni67KdTwGAD-kE4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
